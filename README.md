@@ -37,5 +37,5 @@ MossCoin for Machine is conceptualized as an AI-centric digital currency, differ
 
 ## Further Reading
 
-For insights into broader applications of cryptocurrency in AI and machine learning ecosystems, consider exploring the [AI-Related Cryptocurrency Projects Report](https://github.com/YourGitHubUserName/AI-Related_Cryptocurrency_Projects_Report.md). This report provides an in-depth look at various projects leveraging artificial intelligence within the cryptocurrency space, highlighting their innovations, features, and developments.
+For insights into broader applications of cryptocurrency in AI and machine learning ecosystems, consider exploring the [AI-Related Cryptocurrency Projects Report](AI-Related_Cryptocurrency_Projects_Report.md). This report provides an in-depth look at various projects leveraging artificial intelligence within the cryptocurrency space, highlighting their innovations, features, and developments.
 
